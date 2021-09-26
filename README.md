@@ -5,4 +5,4 @@ This repo contains code that provides solutions for the homework assignments.
 * `utils.py`
 * `counter.py`
 * `run.sh`
-* `swefs_env.yml
+* `swefs_env.yml`
